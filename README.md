@@ -1,6 +1,6 @@
 # 🧠 Image Caption Generator Backend
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](main.png)
 
 A Node.js backend application that accepts an image upload, generates a caption using Gemini AI (Google Generative AI), and returns the caption. Simple, fast, and AI-powered.
 
